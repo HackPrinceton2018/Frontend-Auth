@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "664689082453",
+    "firebase_url": "https://notetaker-dfce7.firebaseio.com",
+    "project_id": "notetaker-dfce7",
+    "storage_bucket": "notetaker-dfce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664689082453:android:cd489be3a650f66d",
+        "android_client_info": {
+          "package_name": "com.example.dellpc.notetaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664689082453-j495auhhi03hebtqr3ou5288g5c1snn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDCGPnFxb06t2qIMMH_hIBj08TBfZ-FQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
